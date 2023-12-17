@@ -1,0 +1,84 @@
+.profileImage {
+    position: absolute;
+    top: 0%;
+    left: 15%;
+    width: 20%;
+    height: auto;
+    transform: translate(-50%, -50%);
+    
+    @media screen and (max-width: 400px) {
+        width: 5rem;
+        height: auto;
+    }
+}
+
+ion-avatar img {
+    border: 2px solid black;
+}
+
+.profileBackground {
+    position: relative;
+    background: darkslategray;
+    height: 200px;
+    width: 100%;
+}
+
+.contactBackground {
+    position: relative;
+    /* height: 300px; */
+    width: 100%;
+}
+
+.contactContent {
+    text-align: left;
+    padding: 10% 0% 0% 5%;
+
+    font-size: 10px;
+}
+
+.iconsProfile * {
+    font-size: 0.8rem;
+    color: #9e9e9e;
+    font-weight: bold;
+}
+
+/* 
+style={{marginRight: "1vw", fontSize: "1vw"}}
+*/
+
+.linkedinButton {
+    text-transform: none;
+    font-size: 4px;
+    position: absolute;
+    right: 2%;
+    top: 2%;
+
+    width: 150px;
+
+    margin: 0;
+    padding: 0;
+}
+
+.iconsProfile IonCol {
+    color: #777;
+    font-size: 1px;
+}
+
+.extraLinkContainer * {
+    color: #777;
+    text-align: center;
+    margin: 2% 0%;
+
+    
+    font-size: 12px;
+}
+
+.extraLinkContainer ion-chip {
+    background: #3880ff;
+}
+
+.extraLinkContainer ion-icon,
+.extraLinkContainer ion-label {
+    color: white;
+    margin: 0px 5px;
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   aria-label="Docker"
+   role="img"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="docker_logo.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.5703125"
+     inkscape:cx="256.95522"
+     inkscape:cy="256.95522"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <path
+     stroke="#066da5"
+     stroke-width="47.9035"
+     d="m 289.6136,208.89374 h 52.94601 m -115.97697,0 h 52.94601 m -114.71635,0 h 52.94601 m -114.71635,0 h 51.68538 m -114.716342,0 h 52.946007 m 10.084955,-57.98848 h 51.68538 m 10.08496,0 h 52.94601 m 8.82433,0 h 52.94601 M 226.58264,92.916773 h 52.94601"
+     id="path4" />
+  <path
+     fill="#066da5"
+     d="m 511.48259,211.41498 c 0,0 -22.69114,-21.43053 -69.33406,-13.8668 -5.04247,-36.55797 -44.12167,-57.98849 -44.12167,-57.98849 0,0 -36.55797,44.12167 -10.08495,93.28582 -7.56373,3.78186 -20.16991,8.82433 -39.0792,8.82433 H 2.1924211 c -6.3030965,23.95177 -6.3030965,182.78979 167.6623589,182.78979 124.8013,0 218.08713,-57.98848 262.20879,-163.88051 65.55221,5.04249 79.41902,-49.16414 79.41902,-49.16414"
+     id="path6"
+     style="stroke-width:1.26061" />
+</svg>

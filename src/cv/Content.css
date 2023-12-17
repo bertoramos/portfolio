@@ -1,0 +1,92 @@
+
+.title-content {
+    margin: 1vw;
+
+    @media print {
+        margin: 2vw;
+    }
+}
+
+.title-content-icon {
+    font-size: 2vw;
+    margin-right: 1vw;
+    color: white;
+
+    @media print {
+        font-size: 3vw;
+    }
+}
+
+.title-content-text {
+    font-size: 1.5vw;
+    color: white;
+
+    @media print {
+        font-size: 2.5vw;
+    }
+}
+
+.name-title {
+    font-size: 2vw;
+
+    @media print {
+        font-size: 4vw;
+        color: white;
+        
+        margin-top: 6vw;
+    }
+}
+
+.titular-subtitle {
+    font-size: 1.5vw;
+    color: gray;
+
+    @media print {
+        font-size: 2.5vw;
+        color: gray;
+    }
+}
+
+.timeline-time {
+    font-weight: bold;
+}
+
+.timeline-company, .timeline-institution {
+    font-size: 1.5vw;
+
+    @media print {
+        font-size: 2.5vw;
+        color: white;
+    }
+}
+
+.timeline-position, .timeline-name, .timeline-place, .timeline-time {
+
+    @media print {
+        color: white;
+    }
+}
+
+.timeline-description {
+    color: gray;
+
+    /* unvisited link */
+    a:link {
+        color: red;
+    }
+
+    /* visited link */
+    a:visited {
+        color: gray;
+    }
+
+    /* mouse over link */
+    a:hover {
+        color: hotpink;
+    }
+
+}
+
+.timeline-description li {
+    list-style-type: disc;
+}

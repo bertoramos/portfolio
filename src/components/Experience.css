@@ -1,0 +1,35 @@
+
+.detailsAccordion {
+    background: #444;
+}
+
+.detailsTitle {
+    text-align: center;
+    background: #444;
+}
+
+.ion-padding {
+    background: #444;
+    
+}
+
+.experienceComponent .technologiesColumns {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+}
+
+.experienceComponent .technologyIcon {
+    @media screen and (max-width: 800px) {
+        font-size: 8em;
+        height: 8vw;
+        margin: 1vw;
+    }
+
+    font-size: 4em;
+    height: 4vw;
+    margin: 1vw;
+}
+

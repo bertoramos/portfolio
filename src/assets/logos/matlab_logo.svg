@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 20.48 20.48"
+   version="1.1"
+   id="svg28460"
+   sodipodi:docname="matlab_logo.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview28462"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.71064232"
+     inkscape:cx="398.23128"
+     inkscape:cy="358.12672"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg28460" />
+  <defs
+     id="defs28450">
+    <linearGradient
+       id="a"
+       x1="16.802999"
+       y1="16.631001"
+       x2="15.013"
+       y2="22.410999"
+       gradientTransform="matrix(0.56176467,0,0,-0.56176467,0.87647067,19.422646)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#512"
+         id="stop28418" />
+      <stop
+         offset="0.23"
+         stop-color="#523"
+         id="stop28420" />
+      <stop
+         offset="0.36"
+         stop-color="#534"
+         id="stop28422" />
+      <stop
+         offset="0.51"
+         stop-color="#645"
+         id="stop28424" />
+      <stop
+         offset="0.66"
+         stop-color="#568"
+         id="stop28426" />
+      <stop
+         offset="0.84"
+         stop-color="#29d"
+         id="stop28428" />
+    </linearGradient>
+    <linearGradient
+       id="b"
+       x1="29.709999"
+       y1="18.983"
+       x2="11.71"
+       y2="14.563"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.56176467,0,0,0.56176467,0.87647067,1.4461766)">
+      <stop
+         offset="0.081"
+         stop-color="#c33"
+         id="stop28431" />
+      <stop
+         offset="0.189"
+         stop-color="#de5239"
+         id="stop28433" />
+      <stop
+         offset="0.313"
+         stop-color="#f06e3e"
+         id="stop28435" />
+      <stop
+         offset="0.421"
+         stop-color="#fa8042"
+         id="stop28437" />
+      <stop
+         offset="0.5"
+         stop-color="#fe8643"
+         id="stop28439" />
+      <stop
+         offset="0.58"
+         stop-color="#fa7f42"
+         id="stop28441" />
+      <stop
+         offset="0.696"
+         stop-color="#ef6c3e"
+         id="stop28443" />
+      <stop
+         offset="0.833"
+         stop-color="#dc4c37"
+         id="stop28445" />
+      <stop
+         offset="0.916"
+         stop-color="#cf3633"
+         id="stop28447" />
+    </linearGradient>
+  </defs>
+  <title
+     id="title28452">file_type_matlab</title>
+  <path
+     d="M 2,11.305147 6.4772644,9.4962643 A 11.628529,11.628529 0 0 1 8.0052643,7.8390585 C 8.376029,7.6424409 9.0726172,7.7491762 10.347823,6.1649998 11.583705,4.620147 11.97694,3.3 12.555558,3.3 c 0.915677,0 1.589794,1.9774116 2.612206,4.9716173 a 64.956287,64.956287 0 0 0 2.561647,6.7243227 c -1.067353,-0.994323 -1.977412,-2.067294 -3.016677,-2.039205 -0.966235,0.02247 -2.039205,1.16847 -3.213293,2.640294 -0.93253,1.179705 -2.1684121,1.988646 -2.6515297,1.971794 0,0 -1.2471176,-3.527883 -2.2919998,-4.100883 A 1.4836205,1.4836205 0 0 0 5.2132939,13.580293 L 2,11.299529 Z"
+     style="fill:#4499dd;stroke-width:0.561765"
+     id="path28454" />
+  <path
+     d="M 11.999411,3.7044706 C 11.623029,4.2100588 11.167999,5.1369705 10.347823,6.1649998 9.0726172,7.7491762 8.3816466,7.6424409 8.0052643,7.8390585 A 11.052158,11.052158 0 0 0 6.4772644,9.4962643 L 8.3310878,10.850117 C 9.9040289,8.7041761 10.746676,6.3784704 11.403941,4.8729411 a 7.6282024,7.6282024 0 0 1 0.59547,-1.1684705 z"
+     style="fill:url(#a);stroke-width:0.561765"
+     id="path28456" />
+  <path
+     d="m 12.561176,3.3 c -1.224647,0 -2.061677,6.4490584 -6.5838822,10.04997 1.2695882,-0.207853 2.3706469,2.943647 2.8762351,4.218853 2.2470591,-0.382 4.0447061,-4.6795 5.8592051,-4.612088 1.039265,0.03932 1.949324,1.044882 3.016677,2.039205 C 15.291352,9.8726466 14.15097,3.3 12.561176,3.3 Z"
+     style="fill:url(#b);stroke-width:0.561765"
+     id="path28458" />
+  <metadata
+     id="metadata29693">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>file_type_matlab</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
